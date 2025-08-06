@@ -1,20 +1,20 @@
-# CV_Example
+# CV_Katerinemanrique
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## 
+**Profesión:** Analisis de desarrollo en software
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [kate1313garcia@gmail,com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Empresa XYZ** _(sena- Actualidad)_
+- Analisis y desarrollor en sotfware
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa ABC** _(2025 - 2027)_
+- analista y desarrollor en sotfware
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
