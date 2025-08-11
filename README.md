@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
 - **Email:** [kate1313garcia@gmail,com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [linkedin.com/in/tuusuario](www.linkedin.com/in/katerine-manrrique-36709637a)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(sena- Actualidad)_
@@ -16,9 +16,13 @@
 ### **Empresa ABC** _(2025 - 2027)_
 - analista y desarrollor en sotfware
 
+### **Empresa ABC** _(2021 - 2025)_
+- auxiliar administrativo
+
+
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Universidad Ejemplo** _(2020- 2021)_
+- Tecnico Auxiliar administtrativo
 
 ## 💡 Habilidades
 - **Habilidad 1**
