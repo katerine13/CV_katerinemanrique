@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## 
-**Profesión:** Analisis de desarrollo en software
+**Profesión:** Analisis y desarrollo en software
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
@@ -10,18 +10,18 @@
 - **LinkedIn:** [linkedin.com/in/tuusuario](www.linkedin.com/in/katerine-manrrique-36709637a)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(sena- Actualidad)_
+### **Empresa _(sena- Actualidad)_
 - Analisis y desarrollor en sotfware
 
-### **Empresa ABC** _(2025 - 2027)_
-- analista y desarrollor en sotfware
-
-### **Empresa ABC** _(2021 - 2025)_
+### **Empresa Distribucines Aliadas Bj Sas _(2021 - 2025)_
 - auxiliar administrativo
-
-
+- 
+-## 🎓 Educación
+### **Sena_(2025- 2027)_
+- Analis y desarrollo en sotfware
+- 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2020- 2021)_
+### **Instituto Campo alto _(2020- 2021)_
 - Tecnico Auxiliar administtrativo
 
 ## 💡 Habilidades
